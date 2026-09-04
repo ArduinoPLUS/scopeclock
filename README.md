@@ -1,1 +1,1 @@
-아날로그 오실로스코프를 이용하여 만드는 시계 입니다.
+https://colab.research.google.com/github/ArduinoPLUS/scopeclock/blob/main/a.ipynb
